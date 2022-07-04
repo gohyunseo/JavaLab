@@ -9,9 +9,9 @@ public class day3_6 {
         
         int star = scanner.nextInt();
 
-        for(int i=1;i<=star;i++) {             // i = 1 2 3
+        for(int i=1;i<=star;i++) {             
             for(int j=1;j<=i;j++) {
-                System.out.print("*");
+                System.out.print("*"); 
             }
             System.out.println();
         }
