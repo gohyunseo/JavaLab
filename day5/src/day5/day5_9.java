@@ -12,8 +12,13 @@ public class day5_9 {
 			System.out.print(numArr[i]);
 		}
 	    System.out.println();
-	     for(int j =0;j<counter.length;j++) {
+	     for(int j =0;j<numArr.length;j++) {
 	    	 counter[numArr[j]]++;
+	     }
+	     for(int i =0;i<numArr.length;i++) {
+//	    	 System.out.println(i+"의 개수: "+counter[i]);
+	    	 System.out.println(counter[i]);
+	     }
 	    	 // ex) numArr 0 2 3     4 589119
 	    	 // j =0  numArr[0] counter[0]++
 	    	 // j =1  numArr[1](난수 2가 나왔을시 )counter[2]++
@@ -30,4 +35,3 @@ public class day5_9 {
 
 	}
 
-}
