@@ -6,3 +6,5 @@ day 4 notion - https://www.notion.so/Day-4-f70ade17affd4414b929c54db3eabb11
 day 5 notion - https://www.notion.so/Day-5-c30e31dbf1d349368c2ff81cafea6375
 
 day 6 notion - https://www.notion.so/Day6-86dc757b7b67401389839e7284fc2530
+
+day7 notion - https://www.notion.so/Day7-2d28915733ba43e88d5d8a2a8a716a96
