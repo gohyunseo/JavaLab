@@ -24,3 +24,5 @@ day 15 notion - https://www.notion.so/Day-15-7d6b871e16634ed4ad81f040ef8516d1
 day 16 notion - https://www.notion.so/Day-16-7f634ba3f1fd469997478d70df0139d4
 
 day 17 notion - https://www.notion.so/Day-17-b27051835fa144a588e3578774655d7a
+
+day 19 notion - https://www.notion.so/Day-19-76f8abdb681f40679450715d4aa277a7
